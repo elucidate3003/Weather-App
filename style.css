@@ -1,0 +1,19 @@
+body{
+    background: #e69494;
+    letter-spacing: 0.3em;
+    font-size: 1;
+}
+
+.container{
+    max-width: 400px;
+    
+}
+
+.icon {
+    border-radius: 50%;
+    opacity: 0.8;
+    position:relative;
+    top: -10px;
+    width: 100px;
+    margin-left: 150px;
+}
